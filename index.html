@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Synth</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-12 text-center">
+
+                <p>Synth</p>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-4 offset-md-4 text-center" id="keys">
+                <p>Keys</p>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-4 offset-md-4" id="settings">
+                <p class="text-center">Buttons</p>
+
+                <div>
+                    <label for="volume"><span>Volume</span></label>
+                    <input class="form-control-range" type="range" min="0.0" max="1.0" step="0.01" value="0.5" name="volume" id="volume">
+                </div>
+
+                <div>
+                    <label for="waveform"><span>Waveform</span></label>
+                    <select class="custom-select" id="waveform">
+                        <option value="sine">Sine</option>
+                        <option value="square" selected>Square</option>
+                        <option value="sawtooth">Sawtooth</option>
+                        <option value="triangle">Triangle</option>
+                    </select>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+</body>
+</html>
