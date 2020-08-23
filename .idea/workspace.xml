@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -25,6 +26,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RunManager">
+    <configuration name="synth.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/synth.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.synth.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,11 +44,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598100509337</updated>
-      <workItem from="1598100510470" duration="1606000" />
+      <workItem from="1598100510470" duration="11490000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1598172451858">
+      <screen x="1280" y="-138" width="1920" height="1058" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1280.-138.1920.1058/68.22.1212.778@1280.-138.1920.1058" timestamp="1598172451858" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1598172451857">
+      <screen x="1280" y="-138" width="1920" height="1058" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1280.-138.1920.1058/68.22.1212.778@1280.-138.1920.1058" timestamp="1598172451857" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1598172451856">
+      <screen x="1280" y="-138" width="1920" height="1058" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1280.-138.1920.1058/68.22.1212.778@1280.-138.1920.1058" timestamp="1598172451856" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1598172451857">
+      <screen x="1280" y="-138" width="1920" height="1058" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1280.-138.1920.1058/68.22.1212.778@1280.-138.1920.1058" timestamp="1598172451857" />
   </component>
 </project>
